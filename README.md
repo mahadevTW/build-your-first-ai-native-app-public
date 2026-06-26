@@ -12,7 +12,7 @@ Run the setup script for your OS. It installs everything and verifies your envir
 ### Mac / Linux
 
 ```bash
-git clone https://github.com/mahadevTW/build-your-first-ai-native-app
+git clone https://github.com/mahadevTW/build-your-first-ai-native-app-public
 cd build-your-first-ai-native-app-public
 bash setup.sh
 ```
